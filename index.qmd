@@ -1,6 +1,6 @@
 # - All About Me
 
-![About Me](../images/TEST.jpeg){width=80%}
+![About Me](images/TEST.jpeg){width=80%}
 
 Halo, saya **Adriel Nathanael Simatupang**, mahasiswa S1 di **Sekolah Teknik Elektro dan Informatika (STEI) Institut Teknologi Bandung**, Program Studi **Sistem dan Teknologi Informasi**.  
 Saya lahir di **Jakarta, 27 Mei 2006**, dan merupakan anak kedua dari tiga bersaudara. Sejak kecil, saya memiliki ketertarikan pada teknologi dan bagaimana sistem digital dapat membantu menyelesaikan permasalahan nyata di kehidupan sehari-hari.
