@@ -1,22 +1,49 @@
-# Selamat Berjumpa {.unnumbered}
+# - All About Me
 
-![About Me](images/MYSELF.jpg){width=950%}
+![About Me](../images/TEST.jpeg){width=80%}
 
-Armein Z R Langi adalah Guru Besar di Sekolah Teknik Elektro dan Informatika ITB, dosen ITB sejak Desember 1987, mantan Rektor Universitas Kristen Maranatha, 1 Maret 2016 s/d 29 Februari 2020, mantan Kepala Pusat Penelitian Teknologi Informasi dan Komunikasi (PP-TIK) ITB November 2005 s/d Maret 2010, dan Sekretaris MWA ITB Mei 2010-Jan 2011.
+Halo, saya **Adriel Nathanael Simatupang**, mahasiswa S1 di **Sekolah Teknik Elektro dan Informatika (STEI) Institut Teknologi Bandung**, Program Studi **Sistem dan Teknologi Informasi**.  
+Saya lahir di **Jakarta, 27 Mei 2006**, dan merupakan anak kedua dari tiga bersaudara. Sejak kecil, saya memiliki ketertarikan pada teknologi dan bagaimana sistem digital dapat membantu menyelesaikan permasalahan nyata di kehidupan sehari-hari.
 
-Lahir di Tomohon 1962 dari pasangan Manado dan Sunda. Saat ini tinggal di Bandung, menikah dengan Ina dan dikaruniai empat anak. Ayah dari Gladys, Kezia, Andria, dan Marco.
+---
 
-Sharing pikiran singkat ada di blog <https://azrl.wordpress.com>. Facebookk: armein_langi
+## Minat dan Tujuan
 
-Andria, putri saya, lumayan sering membaca blog ini.  Dia juga sumber inspirasi tulisan saya.  Dia senang menceritakan jokes pada saya, dan kalau bagus saya tulis di sini, terutama seri Kocak Ala Andria.  Dan dia suka heran, karena isinya sudah berbeda.  Memang saya senang mengubah-ngubah cerita karena saya tidak suka menjiplak mentah-mentah.  Minggu lalu tidak sengaja dia memuji tulisan blog ini.
+Saya memiliki minat mendalam terhadap **teknologi informasi** dan penerapannya untuk memberikan **dampak sosial yang positif**.  
+Bagi saya, teknologi bukan hanya sekadar alat untuk efisiensi, tetapi juga sarana untuk **mewujudkan empati dan kebermanfaatan** dalam masyarakat.
 
+Tujuan saya adalah untuk **mengintegrasikan logika teknologi dengan nilai kemanusiaan**, membangun sistem yang tidak hanya cerdas dari sisi algoritma, namun juga adaptif terhadap kebutuhan manusia.  
+Saya percaya bahwa teknologi yang baik adalah teknologi yang mampu memanusiakan pengguna dan memperkaya pengalaman hidup mereka.
 
-“Papa… papa… “, tanyanya, “Tulisan blog papa itu copy-paste dari tulisan orang ya…?”
+> “Teknologi seharusnya tidak hanya mempermudah hidup manusia,  
+> tetapi juga membuatnya lebih bermakna.”
 
-Haa? Ya nggak mungkin lah.  Kecuali lirik lagu, semua artikel di sini ditulis sendiri.
+---
 
-“Ah bohong, soalnya tulisannya terlalu banyak….” katanya tetap tidak percaya, “Nggak mungkinlah papa tulis sendiri…”
+## Keahlian dan Hobi
 
-Hehe, saya tersenyum sambil membelai Andria, karena buat saya itu adalah ultimate compliment.  Thanks sweetheart…
+- 💻 **Pemrograman:** Python, C, Java, C++  
+- ⚙️ **Tools & Platform:** Git, VS Code, Quarto  
+- 🌐 **Bahasa:** Bahasa Indonesia (native), Bahasa Inggris (proficient)  
+- 🎯 **Hobi & Aktivitas:** Tennis, memancing, serta kegiatan pengabdian masyarakat  
 
-Jadi kalau orang tidak percaya bahwa sesuatu itu karya anda, anda yang buat, jangan marah.  Itu adalah pujian yang sejati.
+Saya juga aktif mengembangkan kemampuan *problem solving* dan *critical thinking* melalui proyek dan eksperimen kecil di bidang teknologi informasi.
+
+---
+
+## Proyek dan Aktivitas
+
+- **Sistem Manajemen Rumah Sakit** — Aplikasi berbasis C yang menerapkan konsep struktur data untuk mengelola data pasien dan dokter.  
+- **Website Pribadi** — Website statis yang dikembangkan dengan Quarto sebagai media eksplorasi diri dan dokumentasi kegiatan akademik.  
+
+Kedua proyek ini membantu saya memahami bagaimana desain sistem dan pengelolaan data berperan penting dalam membangun solusi teknologi yang efisien dan terstruktur.
+
+---
+
+## Kontak
+
+📧 **Email:** [adrielnathanaels@gmail.com](mailto:adrielnathanaels@gmail.com)  
+📸 **Instagram:** [adrielnathanael.s](https://instagram.com/adrielnathanael.s)
+
+---
+

@@ -142,11 +142,11 @@
 #show: doc => conf(
   title: [Portfolio Asesmen II-2100 KIPP],
   authors: (
-    ( name: [131902360 Armein Z R Langi],
+    ( name: [Adriel Nathanael Simatupang],
       affiliation: "",
       email: "" ),
     ),
-  date: [2025-09-15],
+  date: [2025-10-20],
   abstract-title: [Abstract],
   pagenumbering: "1",
   cols: 1,

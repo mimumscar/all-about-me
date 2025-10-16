@@ -3,13 +3,12 @@ project:
   output-dir: docs
 
 book:
-  title: "Armein Z. R. Langi"
+  title: "Adriel Nathanael Simatupang"
   subtitle: "Portfolio Asesmen II-2100 KIPP"
-  author: "131902360 Armein Z R Langi"
-  date: "9/15/2025"
+  author: "18224109 Adriel N S"
+  date: "10/20/2025"
   chapters:
     - index.qmd
-    - All_About_me/index.qmd
     - My_Song_for_You/index.qmd
     - My_Stories_for_You/index.qmd
     - My_Shapes/index.qmd
