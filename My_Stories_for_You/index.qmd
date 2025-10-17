@@ -1,8 +1,9 @@
 # - My Stories for You
 
-![Credit: Pinterest](../images/STORY.jpg){width=80%}
 
 ## Bayangan di Antara Cahaya
+
+![Credit: Pinterest](../images/STORY.jpg){width=80%}
 
 Ada seseorang yang berjalan di kota yang tak pernah benar-benar gelap, karena lampu-lampunya menyala sepanjang malam.  
 Namun, cahaya yang terlalu banyak justru membuatnya lupa bentuk bayangan sendiri.

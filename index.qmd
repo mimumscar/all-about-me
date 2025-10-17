@@ -2,23 +2,20 @@
 
 ![About Me](images/TEST.jpeg){width=80%}
 
-Halo, saya **Adriel Nathanael Simatupang**, mahasiswa S1 di **Sekolah Teknik Elektro dan Informatika (STEI) Institut Teknologi Bandung**, Program Studi **Sistem dan Teknologi Informasi**.  
-Saya lahir di **Jakarta, 27 Mei 2006**, dan merupakan anak kedua dari tiga bersaudara. Sejak kecil, saya memiliki ketertarikan pada teknologi dan bagaimana sistem digital dapat membantu menyelesaikan permasalahan nyata di kehidupan sehari-hari.
-
----
+Halo, saya **Adriel Nathanael Simatupang**, mahasiswa S1 di Sekolah Teknik Elektro dan Informatika (STEI) Institut Teknologi Bandung, Program Studi Sistem dan Teknologi Informasi.  
+Saya lahir di Jakarta, 27 Mei 2006, dan merupakan anak kedua dari tiga bersaudara. Sejak kecil, saya memiliki ketertarikan pada teknologi dan bagaimana sistem digital dapat membantu menyelesaikan permasalahan nyata di kehidupan sehari-hari.
 
 ## Minat dan Tujuan
 
 Saya memiliki minat mendalam terhadap **teknologi informasi** dan penerapannya untuk memberikan **dampak sosial yang positif**.  
 Bagi saya, teknologi bukan hanya sekadar alat untuk efisiensi, tetapi juga sarana untuk **mewujudkan empati dan kebermanfaatan** dalam masyarakat.
 
-Tujuan saya adalah untuk **mengintegrasikan logika teknologi dengan nilai kemanusiaan**, membangun sistem yang tidak hanya cerdas dari sisi algoritma, namun juga adaptif terhadap kebutuhan manusia.  
+Tujuan hidup saya adalah untuk mengintegrasikan logika teknologi dengan nilai kemanusiaan. Yaitu membangun sistem yang tidak hanya cerdas dari sisi algoritma, namun juga adaptif terhadap kebutuhan manusia.  
 Saya percaya bahwa teknologi yang baik adalah teknologi yang mampu memanusiakan pengguna dan memperkaya pengalaman hidup mereka.
 
 > “Teknologi seharusnya tidak hanya mempermudah hidup manusia,  
 > tetapi juga membuatnya lebih bermakna.”
 
----
 
 ## Keahlian dan Hobi
 
@@ -29,7 +26,6 @@ Saya percaya bahwa teknologi yang baik adalah teknologi yang mampu memanusiakan 
 
 Saya juga aktif mengembangkan kemampuan *problem solving* dan *critical thinking* melalui proyek dan eksperimen kecil di bidang teknologi informasi.
 
----
 
 ## Proyek dan Aktivitas
 
@@ -38,12 +34,10 @@ Saya juga aktif mengembangkan kemampuan *problem solving* dan *critical thinking
 
 Kedua proyek ini membantu saya memahami bagaimana desain sistem dan pengelolaan data berperan penting dalam membangun solusi teknologi yang efisien dan terstruktur.
 
----
 
 ## Kontak
 
 📧 **Email:** [adrielnathanaels@gmail.com](mailto:adrielnathanaels@gmail.com)  
 📸 **Instagram:** [adrielnathanael.s](https://instagram.com/adrielnathanael.s)
 
----
 

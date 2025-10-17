@@ -4,7 +4,8 @@
 
 ---
 
-## Ringkasan 1 Halaman
+
+## Ringkasan 1 Halaman {.unnumbered}
 
 **Peran Inti:** Perancang dan pengajar yang membantu orang lain bertumbuh melalui teknologi dan pembelajaran bermakna.  
 **Misi:** Menggunakan kemampuan di bidang IT dan komunikasi untuk membawa dampak positif bagi orang lain melalui tindakan nyata.  
@@ -21,7 +22,7 @@
 
 ---
 
-## 1) S — Spiritual Gifts (Karunia Rohani)
+## 1) S — Spiritual Gifts (Karunia Rohani) {.unnumbered}
 
 Saya merasa paling hidup ketika dapat **mengajar dan membantu orang lain memahami sesuatu**.  
 Saya juga menikmati **merancang sistem atau rencana** yang membuat proses menjadi lebih efektif dan teratur.  
@@ -31,7 +32,7 @@ Bagi saya, melayani tidak selalu berarti berbicara di depan banyak orang, tetapi
 
 ---
 
-## 2) H — Heart (Minat, Nilai, Kepedulian)
+## 2) H — Heart (Minat, Nilai, Kepedulian) {.unnumbered}
 
 Saya memiliki kepedulian besar terhadap **perkembangan orang lain**, terutama ketika saya bisa menjadi bagian dari proses mereka menemukan potensi terbaiknya.  
 Teknologi bagi saya bukan sekadar alat, tetapi **jembatan untuk membuat hidup orang lain lebih mudah dan bermakna**.  
@@ -39,7 +40,7 @@ Saya juga menaruh nilai tinggi pada **hubungan yang sehat dan tulus** dengan ora
 
 ---
 
-## 3) A — Abilities (Kemampuan Andal)
+## 3) A — Abilities (Kemampuan Andal) {.unnumbered}
 
 Saya mampu **menganalisis dan memecahkan masalah** melalui pendekatan logis serta membangun solusi menggunakan keterampilan **pemrograman**.  
 Saya juga memiliki kemampuan komunikasi yang baik, sehingga dapat menjelaskan hal-hal teknis dengan cara yang mudah dipahami.  
@@ -47,7 +48,7 @@ Kombinasi kemampuan teknis dan interpersonal ini membuat saya nyaman bekerja dal
 
 ---
 
-## 4) P — Personality (Gaya Kerja & Kolaborasi)
+## 4) P — Personality (Gaya Kerja & Kolaborasi) {.unnumbered}
 
 Saya cenderung **reflektif dan sistematis**, selalu ingin memahami alasan di balik setiap langkah.  
 Saya **tenang dalam tekanan**, mendengarkan sebelum mengambil keputusan, dan memiliki **visi jangka panjang** terhadap hasil pekerjaan.  
@@ -55,7 +56,7 @@ Empati menjadi kekuatan saya dalam berinteraksi, karena saya percaya setiap oran
 
 ---
 
-## 5) E — Experiences (Pengalaman Pembentuk)
+## 5) E — Experiences (Pengalaman Pembentuk) {.unnumbered}
 
 Proyek-proyek yang saya jalani mengajarkan arti kerja keras dan tanggung jawab.  
 Namun, justru **kegagalan** yang membuat saya belajar paling banyak — bahwa hasil bukan segalanya, dan setiap kegagalan membawa pelajaran baru untuk tumbuh.  
@@ -63,7 +64,7 @@ Pengalaman-pengalaman itu menanamkan keyakinan bahwa keberhasilan sejati adalah 
 
 ---
 
-## 6) Piagam Diri (Self-Charter)
+## 6) Piagam Diri (Self-Charter) {.unnumbered}
 
 **Misi Hidup:** menempuh karier di bidang teknologi yang bermanfaat dan berdampak nyata bagi kehidupan orang lain.  
 **Nilai Inti:** kejujuran, kasih, integritas, dan pertumbuhan.  
@@ -74,7 +75,7 @@ Pengalaman-pengalaman itu menanamkan keyakinan bahwa keberhasilan sejati adalah 
 
 ---
 
-## 🌙 Nilai Moral & Refleksi Pribadi {.unnumbered}
+## Nilai Moral & Refleksi Pribadi {.unnumbered} 
 
 Menurut saya, makna sejati dari kekuatan bukanlah kemampuan untuk selalu berhasil,  
 tetapi **ketulusan untuk belajar dan membantu meski masih bertumbuh**.  
@@ -84,7 +85,7 @@ sementara **pengetahuan yang disertai kasih dapat mengubah hidup seseorang.**
 
 ---
 
-## 7) Narasi 90 Detik
+## 7) Narasi 90 Detik {.unnumbered}
 
 “Saya adalah seseorang yang senang mengajar, merancang, dan membantu orang lain berkembang.  
 Dengan latar belakang di bidang teknologi informasi, saya percaya bahwa kode dan sistem bukan hanya alat,  
