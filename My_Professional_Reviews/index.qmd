@@ -1,2 +1,83 @@
-## UAS-5 My Professional Reviews
-Untuk melAkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+---
+title: "- My Professional Review"
+author: "Adriel"
+date: "2025-12-23"
+format:
+  html:
+    toc: true
+    theme: cosmo
+---
+
+## UAS-1: My Concepts
+**Judul: Sistem sebagai Jembatan Manusia dan Teknologi**
+
+Konsep ini mengeksplorasi hubungan mendalam antara struktur teknis dan pengalaman manusia, memposisikan teknologi sebagai sistem sosial yang hidup.
+
+| Kriteria | Nilai | Catatan Singkat |
+|:---|:---:|:---|
+| Clarity (Kejelasan) | 5 | Metafora "Jembatan" antara logika mesin dan dinamika manusia sangat jernih dan mudah diinternalisasi. |
+| Logic (Logika) | 5 | Tiga pilar (Struktur, Interaksi, Makna) membentuk kerangka berpikir yang sangat koheren dan seimbang. |
+| Validity (Validitas) | 4.8 | Argumen didukung oleh pemahaman fundamental tentang peran teknologi dalam masyarakat secara kuat. |
+| Usefulness (Kegunaan) | 5 | Memberikan panduan praktis bagi mahasiswa STI untuk tidak sekadar membangun kode, tapi membangun solusi. |
+
+**Rata-rata: 4.95 (A+)** *Komentar: Sebuah redefinisi yang luar biasa dalam memandang Sistem Informasi bukan sebagai alat mati, melainkan sebagai medium komunikasi yang manusiawi.*
+
+---
+
+## UAS-2: My Opinions
+**Judul: Keseimbangan Berpikir dalam Ekosistem Teknologi**
+
+Opini kritis mengenai posisi teknologi yang tidak pernah netral dan pentingnya refleksi makna di tengah tuntutan efisiensi.
+
+| Kriteria | Nilai | Catatan Singkat |
+|:---|:---:|:---|
+| Compelling (Daya Tarik) | 5 | Premis bahwa teknologi bukan pengganti tanggung jawab manusia sangat relevan dengan isu AI saat ini. |
+| Informative (Informatif) | 4.8 | Memberikan wawasan tajam mengenai krisis "kurangnya refleksi makna" dalam pendidikan teknik. |
+| Persuasive (Persuasif) | 5 | Analogi opini sebagai "konfigurasi sistem" yang dinamis sangat meyakinkan dan intelektual. |
+| Engaging (Keterlibatan) | 5 | Berhasil mendorong pembaca untuk bersikap kritis terhadap dominasi efisiensi tanpa mengabaikan aspek teknis. |
+
+**Rata-rata: 4.95 (A+)** *Komentar: Opini yang matang dan berani dalam menempatkan etika serta tanggung jawab manusia di atas sekadar optimasi mesin.*
+
+---
+
+## UAS-3: My Innovations
+**Judul: Reflective Systems Innovation (RSI)**
+
+Pendekatan inovasi yang menempatkan proses refleksi sistemik dan pemahaman masalah sebagai inti dari perancangan teknologi.
+
+| Kriteria | Nilai | Catatan Singkat |
+|:---|:---:|:---|
+| Clarity (Kejelasan) | 5 | Definisi RSI sebagai "rekayasa cara berpikir" sangat tajam dan membedakannya dari inovasi konvensional. |
+| Logic (Logika) | 5 | Prinsip *Problem-First Thinking* dan abstraksi dipetakan dengan logika rekayasa yang sangat solid. |
+| Validity (Validitas) | 4.8 | Kerangka kerja ini sangat valid digunakan dalam metodologi pengembangan sistem modern yang iteratif. |
+| Usefulness (Kegunaan) | 5 | Sangat aplikatif sebagai kerangka berpikir lintas teknologi bagi pengembang sistem di berbagai bidang. |
+
+**Rata-rata: 4.95 (A+)** *Komentar: Inovasi metodologis yang cerdas, mengubah fokus dari "apa yang baru" menjadi "apa yang tepat dan bermakna".*
+
+---
+
+## UAS-4: My Knowledge
+**Judul: Pengetahuan sebagai Struktur Hidup dan Reflektif**
+
+Eksplorasi terhadap hakikat pengetahuan dalam STI sebagai arsitektur berlapis yang diuji melalui realitas dan tanggung jawab.
+
+| Kriteria | Nilai | Catatan Singkat |
+|:---|:---:|:---|
+| Clarity (Kejelasan) | 5 | Pembagian lapisan pengetahuan (Fundamental, Sistemik, Kontekstual) dijelaskan dengan sangat terstruktur. |
+| Logic (Logika) | 5 | Alur pengetahuan sebagai proses iteratif antara teori dan praktik sangat masuk akal dan konsisten. |
+| Validity (Validitas) | 5 | Konsep pengetahuan metakognitif di era AI menunjukkan pemahaman mendalam terhadap lanskap teknologi terkini. |
+| Usefulness (Kegunaan) | 5 | Memberikan landasan etis dan teknis yang kuat bagi profesional STI dalam menjaga integritas desain. |
+
+**Rata-rata: 5.00 (A+)** *Komentar: Inilah puncak dari pemahaman seorang rekayasawan—menyadari bahwa pengetahuan adalah alat orientasi dan tanggung jawab etis.*
+
+---
+
+## Rangkuman Nilai Akhir
+
+| Komponen Evaluasi | Rata-rata | Tingkat |
+|:---|:---:|:---:|
+| UAS-1 My Concepts | 4.95 | A+ |
+| UAS-2 My Opinions | 4.95 | A+ |
+| UAS-3 My Innovations | 4.95 | A+ |
+| UAS-4 My Knowledge | 5.00 | A+ |
+| **Rata-rata Keseluruhan** | **4.96 / 5.00** | **A+** |

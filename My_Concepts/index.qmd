@@ -1,6 +1,57 @@
-# UAS-1 My Concepts
-Mau hidup epik ? [Write your Life Story](lifestory.pdf)
+---
+title: "- My Concepts"
+author: "Adriel"
+format: html
+---
 
-Apa itu berkonsep? 
+## Pendahuluan
 
-{{< video https://youtu.be/QVfUlVBO80U?si=yM6q_rwV9rcDBbu7>}}
+Sebagai mahasiswa Sistem dan Teknologi Informasi, saya memandang teknologi bukan sekadar alat teknis atau kumpulan instruksi yang dieksekusi oleh mesin. Teknologi adalah **sistem buatan manusia** yang hidup di tengah masyarakat, memengaruhi cara berpikir, bekerja, berinteraksi, dan mengambil keputusan. Oleh karena itu, membangun sistem tidak dapat dilepaskan dari pemahaman tentang manusia yang menggunakannya.
+
+Konsep diri saya berangkat dari keyakinan bahwa inti dari Sistem dan Teknologi Informasi bukanlah pada teknologi itu sendiri, melainkan pada **hubungan antara struktur teknis dan pengalaman manusia**. Sistem yang baik bukan hanya sistem yang berjalan tanpa kesalahan, tetapi sistem yang mampu menjembatani kompleksitas mesin dengan keterbatasan, kebutuhan, dan tujuan manusia.
+
+## Konsep Utama: Sistem sebagai Jembatan Manusia dan Teknologi
+
+Saya mendefinisikan sistem sebagai **jembatan** yang menghubungkan dua dunia yang berbeda: dunia logika mesin yang rasional, presisi, dan deterministik, dengan dunia manusia yang kontekstual, emosional, dan dinamis. Tugas utama seorang mahasiswa Sistem dan Teknologi Informasi adalah merancang jembatan tersebut agar kuat secara struktural, mudah dilalui, dan memiliki arah tujuan yang jelas.
+
+Konsep ini menekankan bahwa keberhasilan sebuah sistem tidak hanya diukur dari performa teknis, tetapi juga dari seberapa baik sistem tersebut dipahami, diterima, dan dimanfaatkan oleh penggunanya.
+
+## Pilar Konseptual
+
+Konsep diri saya dibangun di atas tiga pilar utama yang saling berkaitan dan tidak dapat dipisahkan satu sama lain.
+
+### 1. Struktur: Logika dan Ketertiban Sistem
+
+Struktur merupakan fondasi rasional dari setiap sistem informasi. Di dalamnya terdapat algoritma, basis data, arsitektur perangkat lunak, jaringan, dan aturan formal yang mengatur bagaimana sistem bekerja. Saya memandang struktur sebagai kerangka berpikir yang memastikan sistem bersifat konsisten, stabil, dan dapat dikembangkan.
+
+Struktur yang baik bukan sekadar membuat sistem berjalan, tetapi membuat sistem **dapat dipahami oleh pengembang lain**, mudah dirawat, dan mampu beradaptasi terhadap perubahan kebutuhan. Tanpa struktur yang kuat, sistem akan menjadi rapuh dan sulit dikembangkan dalam jangka panjang.
+
+Bagi saya, mempelajari struktur berarti melatih cara berpikir sistematis, logis, dan bertanggung jawab terhadap kompleksitas.
+
+### 2. Interaksi: Titik Temu Sistem dan Pengguna
+
+Sistem selalu berhadapan dengan manusia. Oleh karena itu, interaksi menjadi aspek yang tidak kalah penting dari struktur teknis. Interaksi mencakup cara pengguna berkomunikasi dengan sistem, bagaimana informasi disajikan, serta bagaimana sistem merespons tindakan pengguna.
+
+Saya memandang antarmuka dan alur interaksi sebagai bentuk komunikasi. Sistem yang baik seharusnya “berbicara” dengan jelas tanpa membingungkan pengguna. Kejelasan, kesederhanaan, dan konsistensi menjadi prinsip utama dalam merancang interaksi.
+
+Melalui interaksi yang baik, sistem tidak terasa sebagai beban, melainkan sebagai alat bantu yang mendukung aktivitas manusia secara alami.
+
+### 3. Makna: Tujuan dan Dampak Sistem
+
+Setiap sistem dibuat untuk suatu alasan. Makna berkaitan dengan pertanyaan “mengapa sistem ini ada” dan “dampak apa yang dihasilkan”. Dalam konteks ini, teknologi tidak pernah netral; ia selalu membawa nilai, konsekuensi, dan tanggung jawab sosial.
+
+Saya meyakini bahwa mahasiswa Sistem dan Teknologi Informasi perlu memahami konteks penggunaan sistem, dampaknya terhadap individu maupun masyarakat, serta potensi risiko yang ditimbulkannya. Sistem yang tidak memiliki tujuan yang jelas berisiko menjadi solusi teknis tanpa manfaat nyata.
+
+Dengan memahami makna, saya berusaha membangun sistem yang tidak hanya fungsional, tetapi juga relevan dan bertanggung jawab.
+
+## Kesatuan Konsep
+
+Ketiga pilar tersebut—struktur, interaksi, dan makna—tidak berdiri sendiri. Struktur tanpa interaksi akan terasa kaku dan sulit digunakan. Interaksi tanpa struktur akan rapuh dan tidak stabil. Makna tanpa keduanya akan menjadi idealisme tanpa realisasi.
+
+Konsep diri saya sebagai mahasiswa Sistem dan Teknologi Informasi terletak pada upaya menyatukan ketiganya secara seimbang. Saya memposisikan diri bukan hanya sebagai pembuat sistem, tetapi sebagai perancang solusi teknologi yang berpijak pada logika, berorientasi pada pengguna, dan memiliki tujuan yang jelas.
+
+## Penutup
+
+Melalui konsep ini, saya memahami bahwa belajar Sistem dan Teknologi Informasi bukan sekadar proses teknis, melainkan proses pembentukan cara berpikir. Teknologi menjadi medium untuk menerjemahkan gagasan manusia ke dalam sistem yang nyata.
+
+Dengan menjadikan sistem sebagai jembatan antara manusia dan mesin, saya berharap dapat berkontribusi dalam menciptakan teknologi yang tidak hanya canggih, tetapi juga bermakna dan manusiawi.

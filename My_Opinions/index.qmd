@@ -1,5 +1,82 @@
-## UAS-3 My Opinions
+# - My Opinions
+## Opini Saya tentang Teknologi, Sistem, dan Manusia
 
-SApa itu beropini? [Opini Berpengaruh](BM%20Opini.mp4)
+### Premis
 
-Bagiamana menjaadi menarik? [Menjadi Menarik](./Interesting.mp4)
+Teknologi tidak pernah netral. Setiap sistem informasi membawa asumsi, nilai, dan cara pandang tertentu tentang manusia yang menggunakannya. Di era percepatan digital dan kecerdasan buatan, tantangan utama bukan lagi sekadar membuat sistem yang berfungsi, melainkan memastikan bahwa sistem tersebut **tetap relevan, dapat dipahami, dan bertanggung jawab secara manusiawi**.
+
+Opini saya berangkat dari keyakinan bahwa rekayasa sistem harus melampaui efisiensi teknis dan mulai memikirkan dampaknya terhadap cara manusia berpikir, mengambil keputusan, dan berinteraksi.
+
+---
+
+## 7.1 Opini sebagai Produk Sistemik
+
+Opini bukanlah reaksi spontan atau preferensi pribadi semata. Opini adalah hasil pengolahan berbagai unsur yang saling terkait, yaitu informasi, nilai, pengalaman, dan perasaan, yang seluruhnya dipengaruhi oleh konteks budaya dan lingkungan akademik.
+
+Sebagai mahasiswa Sistem dan Teknologi Informasi, saya melihat opini sebagai **hasil pemodelan mental**, mirip dengan cara sistem memproses input menjadi output. Informasi berperan sebagai data, nilai sebagai aturan, pengalaman sebagai konteks, dan perasaan sebagai faktor penimbang yang sering kali tidak dapat direduksi secara matematis.
+
+Dengan demikian, opini tidak dapat dilepaskan dari sistem berpikir yang membentuknya.
+
+---
+
+## 7.2 Krisis: Dominasi Efisiensi tanpa Refleksi
+
+Perkembangan teknologi saat ini menunjukkan kecenderungan kuat pada efisiensi, otomatisasi, dan optimasi. Sistem dinilai berhasil jika cepat, akurat, dan minim kesalahan. Namun, fokus yang berlebihan pada aspek ini berisiko mengabaikan dimensi manusia.
+
+Dalam konteks pendidikan Sistem dan Teknologi Informasi, mahasiswa sering kali diarahkan untuk menjawab pertanyaan “apakah sistem ini berjalan?”, tetapi jarang diajak untuk bertanya “untuk siapa sistem ini dibuat?” dan “apa konsekuensinya bagi pengguna?”.
+
+Krisis sesungguhnya bukan terletak pada kurangnya kemampuan teknis, melainkan pada **kurangnya refleksi makna**. Teknologi yang canggih tetapi tidak dipahami oleh penggunanya, atau bahkan merugikan mereka, tetaplah sebuah kegagalan sistem.
+
+---
+
+## 7.3 Opini tentang Keseimbangan dalam Berpikir Teknologi
+
+Menurut saya, opini yang sehat dalam bidang Sistem dan Teknologi Informasi harus berada di antara dua ekstrem. Di satu sisi, terlalu percaya pada teknologi sebagai solusi segala masalah. Di sisi lain, menolak teknologi karena dianggap menghilangkan peran manusia.
+
+Saya berpendapat bahwa teknologi seharusnya dipahami sebagai **alat pendukung pengambilan keputusan manusia**, bukan pengganti tanggung jawab manusia. Sistem informasi yang baik adalah sistem yang membantu manusia berpikir lebih jernih, bukan sistem yang membuat manusia berhenti berpikir.
+
+Opini ini terbentuk dari pengalaman belajar, paparan terhadap berbagai studi kasus teknologi, serta pengamatan terhadap bagaimana sistem digunakan dalam kehidupan sehari-hari.
+
+---
+
+## 7.4 Kesiapan Mengubah Opini
+
+Salah satu prinsip utama dalam membentuk opini adalah kesiapan untuk mengubahnya. Dalam dunia teknologi yang berkembang cepat, opini yang kaku justru berbahaya. Informasi baru, konteks baru, dan nilai baru dapat mengubah cara pandang terhadap suatu sistem.
+
+Sebagai mahasiswa, saya memandang perubahan opini bukan sebagai inkonsistensi, melainkan sebagai indikator proses belajar. Ketika opini diperbarui berdasarkan pemahaman yang lebih baik, hal tersebut mencerminkan kedewasaan berpikir.
+
+Opini yang tidak pernah berubah sering kali bukan tanda keyakinan yang kuat, melainkan tanda berhentinya proses refleksi.
+
+---
+
+## 7.5 Menyikapi Perbedaan Opini dalam Dunia Sistem
+
+Perbedaan opini adalah hal yang tidak terelakkan, terutama dalam pengembangan sistem yang melibatkan banyak pemangku kepentingan. Setiap pihak membawa sudut pandang, kepentingan, dan nilai yang berbeda.
+
+Dalam menghadapi perbedaan opini, saya berpendapat bahwa langkah pertama bukanlah membantah, melainkan memahami dasar perbedaannya. Apakah perbedaan tersebut muncul dari data yang berbeda, tujuan yang berbeda, atau nilai yang tidak sama?
+
+Jika rekonsiliasi memungkinkan, maka sistem dapat dirancang sebagai kompromi yang sadar. Jika tidak, kesepakatan untuk berbeda tetap lebih konstruktif daripada memaksakan satu sudut pandang.
+
+---
+
+## 7.6 Sikap yang Memengaruhi Opini
+
+Opini yang baik dapat terdistorsi oleh sikap tertentu. Sikap merasa selalu benar, terlalu defensif terhadap kritik, atau terlalu rasional hingga tidak pernah berani mengambil posisi, semuanya dapat menghambat proses berpikir yang sehat.
+
+Sebagai mahasiswa Sistem dan Teknologi Informasi, saya berusaha menjaga sikap terbuka namun tetap kritis. Opini bukan alat untuk menunjukkan superioritas intelektual, melainkan sarana untuk memperjelas posisi berpikir dan membuka ruang dialog.
+
+---
+
+## 7.7 Analogi: Opini sebagai Sistem yang Dapat Diubah
+
+Jika konsep adalah arsitektur sistem, maka opini adalah konfigurasi sistem yang berjalan di atasnya. Konfigurasi ini dapat diubah, disesuaikan, dan ditingkatkan ketika ditemukan parameter baru atau ketika kebutuhan berubah.
+
+Analogi ini menegaskan bahwa opini bersifat dinamis. Ia bukan hasil akhir, melainkan bagian dari proses berpikir yang terus berlangsung.
+
+---
+
+## Penutup
+
+Opini, bagi saya, merupakan ekspresi dari bagaimana seseorang memahami hubungan antara teknologi dan manusia. Dalam bidang Sistem dan Teknologi Informasi, opini yang matang membantu membedakan antara sistem yang sekadar efisien dan sistem yang benar-benar bermakna.
+
+Dengan membangun opini secara reflektif, terbuka, dan bertanggung jawab, saya berharap dapat berkontribusi dalam pengembangan teknologi yang tidak hanya cerdas secara teknis, tetapi juga bijaksana secara manusiawi.

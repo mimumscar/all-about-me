@@ -1,3 +1,65 @@
-# Summary
+---
+title: "- Summary"
+author: "Adriel Nathanael Simatupang"
+date: "2025-12-23"
+format:
+  html:
+    toc: true
+    theme: cosmo
+---
 
-In summary, this book has no content whatsoever.
+## Ringkasan Portofolio: All About Adriel
+
+Website ini merupakan rangkuman portofolio komprehensif dari **Adriel Nathanael Simatupang**, mahasiswa Sistem dan Teknologi Informasi ITB. Portofolio ini mendokumentasikan perjalanan intelektual dan emosional saya dalam memadukan keahlian rekayasa sistem dengan nilai-nilai kemanusiaan yang mendalam.
+
+### Profil dan Filosofi
+
+Sebagai pribadi yang percaya pada **Locus of Control**, saya memandang hidup sebagai sesuatu yang dijalani dengan kendali penuh, bukan sesuatu yang terjadi begitu saja. Saya memposisikan diri sebagai seorang perancang sistem yang terus belajar memahami interaksi unik antara manusia dan teknologi. Bagi saya, teknologi bukan sekadar alat efisiensi, tetapi sarana untuk mewujudkan empati dan kebermanfaatan nyata bagi masyarakat.
+
+---
+
+## Konsep Inti dan Inovasi
+
+Dalam setiap karya yang saya bangun, saya menerapkan filosofi **The Trinity of Immersive Experience**. Konsep ini menyatukan tiga elemen esensial: **Pikiran** sebagai fondasi logika teknik yang kokoh, **Mata** sebagai representasi estetika desain yang intuitif, dan **Hati** sebagai narasi serta makna emosional di balik teknologi tersebut.
+
+Selain itu, saya mengembangkan pendekatan **Reflective Systems Innovation (RSI)** dan arsitektur **The Story-Engine Architecture (TSEA)**. RSI menekankan pada refleksi sistemik sebelum perancangan, sementara TSEA memperlakukan perangkat lunak sebagai "teater interaktif" yang melibatkan pengguna sebagai tokoh utama melalui komponen seperti *The Stage*, *Protagonist Code*, dan *Plot Structure*. Inovasi ini bertujuan menciptakan kolaborasi narasi yang dinamis antara manusia dan sistem.
+
+---
+
+## Ekspresi Personal dan Refleksi
+
+Melalui bagian **My Stories**, saya merefleksikan bahwa ketenangan tidak selalu ditemukan dalam terang cahaya, melainkan dalam keberanian untuk berhenti sejenak dan mengenal diri sendiri secara jujur. Kekuatan sejati ditemukan ketika kita mampu memberi ruang bagi diri sendiri untuk bernapas di tengah dunia yang bergerak cepat.
+
+Musik juga menjadi elemen krusial dalam perjalanan emosional saya. Lagu-lagu seperti *No Fear No More* mengingatkan bahwa hidup adalah maraton panjang yang menghargai setiap langkah kecil, sementara lagu klasik seperti *Stand By Me* menjadi pengingat akan pentingnya kesetiaan serta dukungan dari keluarga dan sahabat.
+
+---
+
+## Identitas SHAPE
+
+Saya memetakan rancangan diri saya melalui kerangka **SHAPE** untuk memastikan peran profesional saya selaras dengan nilai hidup:
+
+* **S (Spiritual Gifts):** Memiliki karunia dalam mengajar, merancang sistem, dan membantu sesama.
+* **H (Heart):** Sangat peduli pada pertumbuhan manusia dan pembangunan relasi yang tulus melalui teknologi.
+* **A (Abilities):** Kemahiran teknis dalam pemrograman (Python, C, Java, C++), analisis sistem, dan pemecahan masalah.
+* **P (Personality):** Gaya kerja yang reflektif, sistematis, tenang di bawah tekanan, dan penuh empati.
+* **E (Experiences):** Pembelajaran berharga dari proyek akademik seperti Sistem Manajemen Rumah Sakit, kegagalan yang membentuk ketekunan, hingga pengalaman pengabdian masyarakat.
+
+---
+
+## Evaluasi dan Review Profesional
+
+Seluruh tugas dan karya yang terdokumentasi telah melalui proses evaluasi profesional yang mencerminkan kedalaman pemikiran dan orisinalitas:
+
+| Komponen Evaluasi | Rata-rata Nilai | Predikat |
+|:---|:---:|:---:|
+| UTS Series (Refleksi Personal) | 4.81 | A |
+| UAS Series (Konsep & Inovasi) | 4.96 | A+ |
+| **Pencapaian Keseluruhan** | **4.88 / 5.00** | **A+** |
+
+---
+
+## Kesimpulan
+
+Portofolio ini adalah kisah tentang memandang teknologi bukan sebagai kode mati, melainkan sebagai medium untuk menciptakan pengalaman yang logis, indah, dan bermakna. Saya berkomitmen untuk tidak hanya membangun aplikasi, tetapi merancang solusi yang mampu menyentuh sisi kemanusiaan penggunanya secara mendalam.
+
+> *"Menjadi reflektif bukan berarti berhenti, melainkan melangkah dengan lebih sadar akan arah dan makna."*
